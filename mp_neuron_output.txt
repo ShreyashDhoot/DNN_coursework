@@ -1,0 +1,48 @@
+enter the choice of logic gate
+
+1)AND
+ 2)OR
+ 3)NOT
+ 4)NAND
+ 5)NOR
+1
+===============================================================
+Enter binary operands X1 and X2
+
+enter operand X1 =>
+1
+enter operand X2 => 
+0
+=================================================================
+output according to mp neuron machine is 1
+=======================================================
+
+admin@shreyashdesktop MINGW64 /d/DNN_college (main)
+$ python mp_neuron.py
+enter the choice of logic gate
+
+1)AND
+ 2)OR
+ 3)NOT
+ 4)NAND
+ 5)NOR
+4
+===============================================================
+Enter binary operands X1 and X2
+
+enter operand X1 =>
+1
+enter operand X2 => 
+2
+=================================================================
+invalid input please enter again
+enter operand X1 =>
+1
+enter operand X2 => 
+0
+=================================================================
+output according to mp neuron machine is 1
+=======================================================
+
+admin@shreyashdesktop MINGW64 /d/DNN_college (main)
+$
